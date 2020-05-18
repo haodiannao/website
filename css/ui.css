@@ -15,8 +15,14 @@ body {
   color: rgba(0,0,0,.8);
 }
 
-#content {
-  font-family: "Merriweather", Helvetica, sans-serif;
+#content img {
+  width: 100%;
+  padding: 12px;
+}
+
+#content blockquote {
+  padding: 5px;
+  background-color: #f6f8fa;
 }
 
 .mini {
@@ -120,6 +126,10 @@ a {
 /**
  * Remove the border on images inside links in IE 10.
  */
+
+img {
+  border-style: none;
+}
 
 /* Forms
    ========================================================================== */
@@ -225,7 +235,7 @@ a {
  * Removes the default spacing and border for appropriate elements.
  */
 
-
+blockquote,
 h1,
 p {
   margin: 0;
@@ -301,6 +311,10 @@ html {
  * https://github.com/tailwindcss/tailwindcss/issues/362
  */
 
+img {
+  border-style: solid;
+}
+
 h1 {
   font-size: inherit;
   font-weight: inherit;
@@ -339,12 +353,22 @@ a {
  * https://github.com/mozdevs/cssremedy/issues/14
  */
 
+img {
+  display: block;
+  vertical-align: middle;
+}
+
 /**
  * Constrain images and videos to the parent width and preserve
  * their instrinsic aspect ratio.
  *
  * https://github.com/mozdevs/cssremedy/issues/14
  */
+
+img {
+  max-width: 100%;
+  height: auto;
+}
 
 .container {
   width: 100%;

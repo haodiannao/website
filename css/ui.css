@@ -25,6 +25,10 @@ body {
   background-color: #f6f8fa;
 }
 
+#content blockquote p {
+  margin-bottom: 0px;
+}
+
 .mini {
   max-width: 780px;
 }
@@ -218,6 +222,10 @@ img {
 /*
  * Add the correct display in all browsers.
  */
+
+summary {
+  display: list-item;
+}
 
 /* Misc
    ========================================================================== */

@@ -6,10 +6,21 @@
     <description>Recent content on 2464</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 May 2020 16:53:16 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2020 19:49:51 +0800</lastBuildDate>
     
 	<atom:link href="https://www.2464.me/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>请不要使用以下软件进行科学上网</title>
+      <link>https://www.2464.me/2020/this-tools-for-break-the-wall-is-not-recommend/</link>
+      <pubDate>Tue, 19 May 2020 19:49:51 +0800</pubDate>
+      
+      <guid>https://www.2464.me/2020/this-tools-for-break-the-wall-is-not-recommend/</guid>
+      <description>本文最近更新 20200519，我们会持续收集不安全科学上网的软件，请尽量使用 SS/SSR V2RAY Trojan 等科学上网工具
+ 今天汉滨公安在微博上发布一条微博，指出某男子使用软件进行国际联网，并说出来用于科学上网的软件。
+这两款软件是 老王 VPN 以及 蚂蚁 VPN ，所以为了能够网上冲浪安全一点，请勿使用这两款软件。这两款免费软件吸引了许多人去下载，还是希望大家不要使用免费的资源。包括免费的机场节点。</description>
+    </item>
     
     <item>
       <title>在安卓手机上使用 Clash 科学上网</title>

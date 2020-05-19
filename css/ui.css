@@ -20,7 +20,7 @@ body {
   padding: 12px;
 }
 
-#content blockquote {
+#content blockquote, pre {
   padding: 5px;
   background-color: #f6f8fa;
 }
@@ -85,6 +85,11 @@ h1 {
  * 1. Correct the inheritance and scaling of font size in all browsers.
  * 2. Correct the odd `em` font sizing in all browsers.
  */
+
+pre {
+  font-family: monospace, monospace; /* 1 */
+  font-size: 1em; /* 2 */
+}
 
 /* Text-level semantics
    ========================================================================== */
@@ -237,7 +242,8 @@ img {
 
 blockquote,
 h1,
-p {
+p,
+pre {
   margin: 0;
 }
 
@@ -344,6 +350,10 @@ a {
  * back to the system monospace stack if there is no configured
  * 'mono' font family.
  */
+
+pre {
+  font-family: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
 
 /**
  * Make replaced elements `display: block` by default as that's

@@ -6,10 +6,28 @@
     <description>Recent content in Posts on 2464</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 May 2020 07:57:15 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2020 07:57:15 +0800</lastBuildDate>
     
 	<atom:link href="https://www.2464.me/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>使用 Clash Windows 进行科学上网</title>
+      <link>https://www.2464.me/2020/use-clash-to-break-the-wall/</link>
+      <pubDate>Tue, 19 May 2020 07:57:15 +0800</pubDate>
+      
+      <guid>https://www.2464.me/2020/use-clash-to-break-the-wall/</guid>
+      <description>使用 Clash 的客户端在这里可以下载。
+https://github.com/Fndroid/clash_for_windows_pkg/releases
+选择最新版本的下载就可以了。
+然后选择支持订阅 Clash 的机场，我不会向大家推荐机场。
+复制机场向我们提供使用 Clash 订阅的链接，打开我们下载好的 Clash 软件。
+点击 Profiles
+然后在输入栏粘贴我们复制好的 Clash 订阅链接，点击 Download 就会得到节点。
+我们来到 Proxies. 点击像闪电一样的图标测试延迟。选择延迟最少的节点。
+回到 General 确定 System Proxy 处于开启阶段
+接下来就可以尝试访问 Google 确定是否科学上网成功。</description>
+    </item>
     
     <item>
       <title>用 VERCEL (ZEIT) 搭建你的静态网站</title>
@@ -19,13 +37,17 @@
       <guid>https://www.2464.me/2020/use-vercel-as-your-server/</guid>
       <description>使用 vercel 搭建静态网站，相比于 github，其在大陆的速度更为理想，而且有 CDN 加速。那么今天我们就来搭建一个静态网站。
 首先使用 hexo, hugo 或者其它工具生成网页，然后在 GitHub 新建一个项目，最后将生成工具生成的文件 push 到 GitHub 上面去就可以了。
-然后我们在 VERCEL 使用 GitHub 注册一个账号之后，开始下面的操作。
+我们在 VERCEL 使用 GitHub 注册一个账号之后，开始下面的操作。
 在主界面我们点击 import project
-然后选择 From Git Repository, 点击 Continue.
+选择 From Git Repository, 点击 Continue.
 我们选择从 GitHub 导入项目
 最后选择你刚才创建的项目就可以了
-最后按着指示，一直 continue 就可以了。
-接下来你就可以在 VERCEL 看到你的项目。</description>
+最后按着指示，一直点击 continue
+接下来你就可以在 VERCEL 看到你的项目，点击 Visit 我们就可以访问我们的网站
+如果想配置自定义域名就可以回到上一个图片的界面，然后点击项目名称，然后点击 Settings &amp;gt; Domains
+来到这一界面，添加你注册的域名
+更改 Nameserver 如下面的即可
+a.zeit-world.com b.zeit-world.net c.zeit-world.org e.zeit-world.co.uk Vercel 会保持你以前的 DNS 配置，不过需要等待一段时间。当 Vercel 检测你的 Nameserver 更改完成之后，你就可以用域名访问你的网站了。</description>
     </item>
     
   </channel>

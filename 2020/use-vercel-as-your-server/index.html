@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html><head>
-	<title> 用 VERCEL (ZEIT) 搭建你的静态网站 - Textsmate </title>
+	<title> 用 VERCEL (ZEIT) 搭建你的静态网站 - 2464 </title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<meta name="description" content="本文讲解如何用 VERCEL 搭建个人网站，并配置域名">
@@ -27,17 +27,27 @@
     </div>
     <div id="content" class="mt-3"><p>使用 vercel 搭建静态网站，相比于 github，其在大陆的速度更为理想，而且有 CDN 加速。那么今天我们就来搭建一个静态网站。</p>
 <p>首先使用 hexo, hugo 或者其它工具生成网页，然后在 GitHub 新建一个项目，最后将生成工具生成的文件 push 到 GitHub 上面去就可以了。</p>
-<p>然后我们在 VERCEL 使用 GitHub 注册一个账号之后，开始下面的操作。</p>
+<p>我们在 VERCEL 使用 GitHub 注册一个账号之后，开始下面的操作。</p>
 <p>在主界面我们点击 import project</p>
 <p><img src="https://i.loli.net/2020/05/18/64POn9XfuAIZ35J.png" alt="import"></p>
-<p>然后选择 From Git Repository, 点击 Continue.</p>
+<p>选择 From Git Repository, 点击 Continue.</p>
 <p><img src="https://i.loli.net/2020/05/18/wmDCLoKyTahIuBp.png" alt="Snipaste_2020-05-18_08-34-45.png"></p>
 <p>我们选择从 GitHub 导入项目</p>
-<p><img src="https://i.loli.net/2020/05/18/4kJISA8Dc2oFZXU.png" alt="Snipaste_2020-05-18_08-35-07.png"></p>
+<p><img src="https://i.loli.net/2020/05/19/xtWRhVLfaFcUzND.png" alt="Snipaste_2020-05-18_08-35-07.png"></p>
 <p>最后选择你刚才创建的项目就可以了</p>
 <p><img src="https://i.loli.net/2020/05/18/TD62lkLKUa7WGMv.png" alt="Snipaste_2020-05-18_08-35-48.png"></p>
-<p>最后按着指示，一直 continue 就可以了。</p>
-<p>接下来你就可以在 VERCEL 看到你的项目。</p>
+<p>最后按着指示，一直点击 continue</p>
+<p>接下来你就可以在 VERCEL 看到你的项目，点击 Visit 我们就可以访问我们的网站</p>
+<p><img src="https://i.loli.net/2020/05/18/6GTycWMIVKuPjRL.png" alt="Snipaste_2020-05-18_13-56-25.png"></p>
+<p>如果想配置自定义域名就可以回到上一个图片的界面，然后点击项目名称，然后点击 Settings &gt; Domains</p>
+<p>来到这一界面，添加你注册的域名</p>
+<p><img src="https://i.loli.net/2020/05/18/oGTRnVcHaAD5jkS.png" alt="Snipaste_2020-05-18_14-01-16.png"></p>
+<p>更改 Nameserver 如下面的即可</p>
+<pre><code>a.zeit-world.com
+b.zeit-world.net
+c.zeit-world.org
+e.zeit-world.co.uk
+</code></pre><p>Vercel 会保持你以前的 DNS 配置，不过需要等待一段时间。当 Vercel 检测你的 Nameserver 更改完成之后，你就可以用域名访问你的网站了。</p>
 </div>
 </div>  
 

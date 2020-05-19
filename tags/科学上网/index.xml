@@ -6,10 +6,22 @@
     <description>Recent content in 科学上网 on 2464</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 May 2020 07:57:15 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2020 16:53:16 +0800</lastBuildDate>
     
 	<atom:link href="https://www.2464.me/tags/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>在安卓手机上使用 Clash 科学上网</title>
+      <link>https://www.2464.me/2020/clash-on-android-device/</link>
+      <pubDate>Tue, 19 May 2020 16:53:16 +0800</pubDate>
+      
+      <guid>https://www.2464.me/2020/clash-on-android-device/</guid>
+      <description>本文最近更新 20200519
+ 在前面我们讲过如何在 Windows 电脑上使用 Clash 进行科学上网，现在我们来学习一下如何在安卓手机上使用 Clash。过程几乎和 Windows 上的没有区别。
+下载地址，Clash for Android 有一个官方的 Telegram 群组，链接：
+除此之外你还可以在 Play Store 上进行下载，下载地址：</description>
+    </item>
     
     <item>
       <title>使用 Clash Windows 进行科学上网</title>
@@ -17,7 +29,8 @@
       <pubDate>Tue, 19 May 2020 07:57:15 +0800</pubDate>
       
       <guid>https://www.2464.me/2020/use-clash-to-break-the-wall/</guid>
-      <description>使用 Clash 的客户端在这里可以下载。
+      <description>本文最近更新 20200519
+ 使用 Clash 的客户端在这里可以下载。
 https://github.com/Fndroid/clash_for_windows_pkg/releases
 选择最新版本的下载就可以了。
 然后选择支持订阅 Clash 的机场，我不会向大家推荐机场。

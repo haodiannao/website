@@ -17,7 +17,8 @@
       <pubDate>Mon, 18 May 2020 07:57:15 +0800</pubDate>
       
       <guid>https://www.2464.me/2020/use-vercel-as-your-server/</guid>
-      <description>使用 vercel 搭建静态网站，相比于 github，其在大陆的速度更为理想，而且有 CDN 加速。那么今天我们就来搭建一个静态网站。
+      <description>本文最近更新 20200519
+ 使用 vercel 搭建静态网站，相比于 github，其在大陆的速度更为理想，而且有 CDN 加速。那么今天我们就来搭建一个静态网站。
 首先使用 hexo, hugo 或者其它工具生成网页，然后在 GitHub 新建一个项目，最后将生成工具生成的文件 push 到 GitHub 上面去就可以了。
 我们在 VERCEL 使用 GitHub 注册一个账号之后，开始下面的操作。
 在主界面我们点击 import project

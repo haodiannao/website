@@ -6,10 +6,35 @@
     <description>Recent content in Posts on 2464</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 May 2020 07:57:15 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2020 16:53:16 +0800</lastBuildDate>
     
 	<atom:link href="https://www.2464.me/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>在安卓手机上使用 Clash 科学上网</title>
+      <link>https://www.2464.me/2020/clash-on-android-device/</link>
+      <pubDate>Tue, 19 May 2020 16:53:16 +0800</pubDate>
+      
+      <guid>https://www.2464.me/2020/clash-on-android-device/</guid>
+      <description>本文最近更新 20200519
+ 在前面我们讲过如何在 Windows 电脑上使用 Clash 进行科学上网，现在我们来学习一下如何在安卓手机上使用 Clash。过程几乎和 Windows 上的没有区别。
+下载地址，Clash for Android 有一个官方的 Telegram 群组，链接：
+除此之外你还可以在 Play Store 上进行下载，下载地址：</description>
+    </item>
+    
+    <item>
+      <title>Telegram 的这几个机器人让你的网上冲浪更简单</title>
+      <link>https://www.2464.me/2020/telegram-robots-recommendations/</link>
+      <pubDate>Tue, 19 May 2020 16:35:22 +0800</pubDate>
+      
+      <guid>https://www.2464.me/2020/telegram-robots-recommendations/</guid>
+      <description>本文最近更新 20200519
+ Telegram 的机器人可以做许多的事情，这篇文章中会介绍我比较常用到的机器人。
+我最推荐的还是 Gmail Bot , 这是官方推出的 Gmail Bot。
+因为 Gmail 手机客户端有时候不会提醒我消息，使用 Telegram 上面的 Gmail 机器人可以方便我接收信件（大多时候是收验证码）
+同时这个机器人支持回复信件，将信件丢尽垃圾桶。</description>
+    </item>
     
     <item>
       <title>使用 Clash Windows 进行科学上网</title>
@@ -17,7 +42,8 @@
       <pubDate>Tue, 19 May 2020 07:57:15 +0800</pubDate>
       
       <guid>https://www.2464.me/2020/use-clash-to-break-the-wall/</guid>
-      <description>使用 Clash 的客户端在这里可以下载。
+      <description>本文最近更新 20200519
+ 使用 Clash 的客户端在这里可以下载。
 https://github.com/Fndroid/clash_for_windows_pkg/releases
 选择最新版本的下载就可以了。
 然后选择支持订阅 Clash 的机场，我不会向大家推荐机场。
@@ -35,7 +61,8 @@ https://github.com/Fndroid/clash_for_windows_pkg/releases
       <pubDate>Mon, 18 May 2020 07:57:15 +0800</pubDate>
       
       <guid>https://www.2464.me/2020/use-vercel-as-your-server/</guid>
-      <description>使用 vercel 搭建静态网站，相比于 github，其在大陆的速度更为理想，而且有 CDN 加速。那么今天我们就来搭建一个静态网站。
+      <description>本文最近更新 20200519
+ 使用 vercel 搭建静态网站，相比于 github，其在大陆的速度更为理想，而且有 CDN 加速。那么今天我们就来搭建一个静态网站。
 首先使用 hexo, hugo 或者其它工具生成网页，然后在 GitHub 新建一个项目，最后将生成工具生成的文件 push 到 GitHub 上面去就可以了。
 我们在 VERCEL 使用 GitHub 注册一个账号之后，开始下面的操作。
 在主界面我们点击 import project

@@ -20,6 +20,10 @@ body {
   padding: 12px;
 }
 
+#content a {
+  border-bottom: 2px solid #CBF8DF;
+}
+
 #content blockquote, pre {
   padding: 5px;
   background-color: #f6f8fa;

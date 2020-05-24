@@ -17,9 +17,11 @@
       <pubDate>Tue, 19 May 2020 19:49:51 +0800</pubDate>
       
       <guid>https://www.2464.me/2020/this-tools-for-break-the-wall-is-not-recommend/</guid>
-      <description>本文最近更新 20200519，我们会持续收集不安全科学上网的软件，请尽量使用 SS/SSR V2RAY Trojan 等科学上网工具
+      <description> 本文最近更新 20200524，我们会持续收集不安全科学上网的软件，请尽量使用 SS/SSR V2RAY Trojan 等科学上网工具
  今天汉滨公安在微博上发布一条微博，指出某男子使用软件进行国际联网，并说出来用于科学上网的软件。
-这两款软件是 老王 VPN 以及 蚂蚁 VPN ，所以为了能够网上冲浪安全一点，请勿使用这两款软件。这两款免费软件吸引了许多人去下载，还是希望大家不要使用免费的资源。包括免费的机场节点。</description>
+这两款软件是 老王 VPN 以及 蚂蚁 VPN ，所以为了能够网上冲浪安全一点，请勿使用这两款软件。这两款免费软件吸引了许多人去下载，还是希望大家不要使用免费的资源。包括免费的机场节点。
+ 推荐使用 Just My Socks 进行科学上网。
+ </description>
     </item>
     
     <item>
@@ -28,7 +30,7 @@
       <pubDate>Tue, 19 May 2020 16:53:16 +0800</pubDate>
       
       <guid>https://www.2464.me/2020/clash-on-android-device/</guid>
-      <description>本文最近更新 20200519
+      <description> 本文最近更新 20200524
  在前面我们讲过如何在 Windows 电脑上使用 Clash 进行科学上网，现在我们来学习一下如何在安卓手机上使用 Clash。过程几乎和 Windows 上的没有区别。
 你还可以在 Play Store 上进行下载，下载地址：https://play.google.com/store/apps/details?id=com.github.kr328.clash
 你还可以直接在 GitHub 上下载：https://github.com/Kr328/ClashForAndroid/releases
@@ -36,7 +38,9 @@
 然后进入刚才下载的软件，点击 Profiles
 进去之后点击 + New Profile ,然后点击 URL(Import from URL)
 然后复制链接即可
-点击 Tap to start 开启 Clash, 进入 Proxy 选择节点</description>
+点击 Tap to start 开启 Clash, 进入 Proxy 选择节点
+ 推荐使用 Just My Socks 进行科学上网。
+ </description>
     </item>
     
     <item>
@@ -58,7 +62,7 @@
       <pubDate>Tue, 19 May 2020 07:57:15 +0800</pubDate>
       
       <guid>https://www.2464.me/2020/use-clash-to-break-the-wall/</guid>
-      <description>本文最近更新 20200519
+      <description> 本文最近更新 20200524
  使用 Clash 的客户端在这里可以下载。
 https://github.com/Fndroid/clash_for_windows_pkg/releases
 选择最新版本的下载就可以了。
@@ -68,7 +72,9 @@ https://github.com/Fndroid/clash_for_windows_pkg/releases
 然后在输入栏粘贴我们复制好的 Clash 订阅链接，点击 Download 就会得到节点。
 我们来到 Proxies. 点击像闪电一样的图标测试延迟。选择延迟最少的节点。
 回到 General 确定 System Proxy 处于开启阶段
-接下来就可以尝试访问 Google 确定是否科学上网成功。</description>
+接下来就可以尝试访问 Google 确定是否科学上网成功。
+ 推荐使用 Just My Socks 进行科学上网。
+ </description>
     </item>
     
     <item>
